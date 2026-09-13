@@ -2,12 +2,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Main",
+            "name": "Python: Breakpoint Demo",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/src/main.py",
-            "console": "integratedTerminal",
-            "args": ["Krithi"]
+            "program": "${workspaceFolder}/src/breakpoint_demo.py",
+            "console": "integratedTerminal"
         }
     ]
 }
